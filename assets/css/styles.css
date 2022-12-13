@@ -87,6 +87,7 @@ th{
     margin-top: 1px;
     background-color: white; 
     cursor: pointer;
+    font-size: 15px;
 }
 @media (max-width: 768px) {
    
